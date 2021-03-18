@@ -1,0 +1,29 @@
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\bin\Debug\jogo 2.exe.config
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\bin\Debug\jogo 2.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\bin\Debug\jogo 2.pdb
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\bin\Debug\jogo 2.xml
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo_2.Form1.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo_2.Resources.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.xml
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.pdb
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo_2.Form2.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo_2.Form3.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\bin\Debug\jogo 2.exe.config
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.exe
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.xml
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.pdb
+D:\Downloads\jogo_2\jogo 2\jogo 2\bin\Debug\jogo 2.exe
+D:\Downloads\jogo_2\jogo 2\jogo 2\bin\Debug\jogo 2.pdb
+D:\Downloads\jogo_2\jogo 2\jogo 2\bin\Debug\jogo 2.xml
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frminicio.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmjogo.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmregister.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmtop.resources
