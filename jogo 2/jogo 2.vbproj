@@ -87,31 +87,6 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmjfruta.Designer.vb">
-      <DependentUpon>frmjfruta.vb</DependentUpon>
-    </Compile>
-    <Compile Include="frmjfruta.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmjprof.Designer.vb">
-      <DependentUpon>frmjprof.vb</DependentUpon>
-    </Compile>
-    <Compile Include="frmjprof.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmjanimais.Designer.vb">
-      <DependentUpon>frmjanimais.vb</DependentUpon>
-    </Compile>
-    <Compile Include="frmjanimais.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frminicio.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frminicio.Designer.vb">
-      <DependentUpon>frminicio.vb</DependentUpon>
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="frmlogin.Designer.vb">
       <DependentUpon>frmlogin.vb</DependentUpon>
     </Compile>
@@ -124,16 +99,10 @@
     <Compile Include="frmmenu.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmjpaises.Designer.vb">
-      <DependentUpon>frmjpaises.vb</DependentUpon>
+    <Compile Include="frmjogos.Designer.vb">
+      <DependentUpon>frmjogos.vb</DependentUpon>
     </Compile>
-    <Compile Include="frmjpaises.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmregister.Designer.vb">
-      <DependentUpon>frmregister.vb</DependentUpon>
-    </Compile>
-    <Compile Include="frmregister.vb">
+    <Compile Include="frmjogos.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Module1.vb" />
@@ -154,29 +123,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="frmjfruta.resx">
-      <DependentUpon>frmjfruta.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmjprof.resx">
-      <DependentUpon>frmjprof.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmjanimais.resx">
-      <DependentUpon>frmjanimais.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frminicio.resx">
-      <DependentUpon>frminicio.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmlogin.resx">
       <DependentUpon>frmlogin.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmmenu.resx">
       <DependentUpon>frmmenu.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmjpaises.resx">
-      <DependentUpon>frmjpaises.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmregister.resx">
-      <DependentUpon>frmregister.vb</DependentUpon>
+    <EmbeddedResource Include="frmjogos.resx">
+      <DependentUpon>frmjogos.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
@@ -197,24 +151,6 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\180px-Hangman-6.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\5fc65eb744e2a6be85526f5adf3d36c1.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\5fe96f870c86548f84361e793f5f4642.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\7fafbf6524e89b3f5b3b5524e471e3c2.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\9c60f72c58c8767c12ad6615ee6e635d.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\pic1.bmp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Forca_3.png" />
@@ -238,12 +174,6 @@
     <None Include="Resources\Forca_4.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Image1.bmp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Fnaf_1_Full_Jumpscare_Sound.mp3" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Fnaf_1_Full_Jumpscare_Sound.wav" />
   </ItemGroup>
   <ItemGroup>
@@ -263,6 +193,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Acertou_Miseravel_1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FUNDOCOA.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

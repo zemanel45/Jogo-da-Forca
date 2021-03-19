@@ -13,8 +13,5 @@
         End If
     End Sub
 
-    Private Sub btback_Click(sender As Object, e As EventArgs) Handles btback.Click
-        Me.Hide()
-        frminicio.Show()
-    End Sub
 End Class
+

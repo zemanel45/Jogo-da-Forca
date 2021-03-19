@@ -27,18 +27,14 @@ Partial Class frmlogin
         Me.txtusername = New System.Windows.Forms.TextBox()
         Me.txtpassword = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
-        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
-        Me.btback = New System.Windows.Forms.Button()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Label1
         '
         Me.Label1.AutoSize = True
+        Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Arial", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(319, 111)
+        Me.Label1.Location = New System.Drawing.Point(80, 24)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(80, 18)
         Me.Label1.TabIndex = 0
@@ -47,8 +43,9 @@ Partial Class frmlogin
         'Label2
         '
         Me.Label2.AutoSize = True
+        Me.Label2.BackColor = System.Drawing.Color.Transparent
         Me.Label2.Font = New System.Drawing.Font("Arial", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(320, 177)
+        Me.Label2.Location = New System.Drawing.Point(83, 93)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(77, 18)
         Me.Label2.TabIndex = 1
@@ -56,77 +53,47 @@ Partial Class frmlogin
         '
         'txtusername
         '
-        Me.txtusername.Location = New System.Drawing.Point(403, 111)
+        Me.txtusername.Location = New System.Drawing.Point(42, 45)
         Me.txtusername.Name = "txtusername"
-        Me.txtusername.Size = New System.Drawing.Size(326, 20)
+        Me.txtusername.Size = New System.Drawing.Size(165, 20)
         Me.txtusername.TabIndex = 3
         '
         'txtpassword
         '
-        Me.txtpassword.Location = New System.Drawing.Point(403, 175)
+        Me.txtpassword.Cursor = System.Windows.Forms.Cursors.IBeam
+        Me.txtpassword.Location = New System.Drawing.Point(42, 114)
         Me.txtpassword.Name = "txtpassword"
         Me.txtpassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
-        Me.txtpassword.Size = New System.Drawing.Size(326, 20)
+        Me.txtpassword.Size = New System.Drawing.Size(165, 20)
         Me.txtpassword.TabIndex = 4
         '
         'Button1
         '
         Me.Button1.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.Button1.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(552, 252)
+        Me.Button1.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Location = New System.Drawing.Point(83, 158)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(162, 57)
+        Me.Button1.Size = New System.Drawing.Size(77, 27)
         Me.Button1.TabIndex = 5
-        Me.Button1.Text = "Continuar"
+        Me.Button1.Text = "&Login"
         Me.Button1.UseVisualStyleBackColor = False
-        '
-        'PictureBox2
-        '
-        Me.PictureBox2.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.PictureBox2.Location = New System.Drawing.Point(674, 266)
-        Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(31, 31)
-        Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox2.TabIndex = 6
-        Me.PictureBox2.TabStop = False
-        '
-        'PictureBox1
-        '
-        Me.PictureBox1.Location = New System.Drawing.Point(-1, 59)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(294, 250)
-        Me.PictureBox1.TabIndex = 2
-        Me.PictureBox1.TabStop = False
-        '
-        'btback
-        '
-        Me.btback.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.btback.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btback.Location = New System.Drawing.Point(351, 252)
-        Me.btback.Name = "btback"
-        Me.btback.Size = New System.Drawing.Size(162, 57)
-        Me.btback.TabIndex = 7
-        Me.btback.Text = "Voltar"
-        Me.btback.UseVisualStyleBackColor = False
         '
         'frmlogin
         '
+        Me.AccessibleRole = System.Windows.Forms.AccessibleRole.None
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.Turquoise
-        Me.ClientSize = New System.Drawing.Size(741, 333)
-        Me.Controls.Add(Me.btback)
-        Me.Controls.Add(Me.PictureBox2)
+        Me.BackColor = System.Drawing.SystemColors.ControlLight
+        Me.BackgroundImage = Global.jogo_2.My.Resources.Resources.FUNDOCOA
+        Me.ClientSize = New System.Drawing.Size(254, 231)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.txtpassword)
         Me.Controls.Add(Me.txtusername)
-        Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "frmlogin"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Login"
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -134,10 +101,7 @@ Partial Class frmlogin
 
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
-    Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents txtusername As TextBox
     Friend WithEvents txtpassword As TextBox
     Friend WithEvents Button1 As Button
-    Friend WithEvents PictureBox2 As PictureBox
-    Friend WithEvents btback As Button
 End Class

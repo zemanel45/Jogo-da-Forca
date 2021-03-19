@@ -101,6 +101,18 @@ Namespace My
                 Me("dificuldade") = value
             End Set
         End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("0")>  _
+        Public Property tema() As Integer
+            Get
+                Return CType(Me("tema"),Integer)
+            End Get
+            Set
+                Me("tema") = value
+            End Set
+        End Property
     End Class
 End Namespace
 

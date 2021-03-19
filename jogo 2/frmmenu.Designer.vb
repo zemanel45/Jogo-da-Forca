@@ -33,19 +33,16 @@ Partial Class frmmenu
         Me.rbfacil = New System.Windows.Forms.RadioButton()
         Me.btjogar = New System.Windows.Forms.Button()
         Me.lblnome = New System.Windows.Forms.Label()
-        Me.PictureBox2 = New System.Windows.Forms.PictureBox()
-        Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.GroupBox1.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Label1
         '
         Me.Label1.AutoSize = True
+        Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Arial", 20.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(299, 21)
+        Me.Label1.Location = New System.Drawing.Point(156, 20)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(204, 32)
         Me.Label1.TabIndex = 2
@@ -64,12 +61,13 @@ Partial Class frmmenu
         '
         'GroupBox1
         '
+        Me.GroupBox1.BackColor = System.Drawing.Color.Transparent
         Me.GroupBox1.Controls.Add(Me.rbanimais)
         Me.GroupBox1.Controls.Add(Me.rbprof)
         Me.GroupBox1.Controls.Add(Me.rbfrutas)
         Me.GroupBox1.Controls.Add(Me.rdpaises)
         Me.GroupBox1.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox1.Location = New System.Drawing.Point(346, 96)
+        Me.GroupBox1.Location = New System.Drawing.Point(49, 94)
         Me.GroupBox1.Name = "GroupBox1"
         Me.GroupBox1.Size = New System.Drawing.Size(138, 115)
         Me.GroupBox1.TabIndex = 5
@@ -108,10 +106,11 @@ Partial Class frmmenu
         '
         'GroupBox2
         '
+        Me.GroupBox2.BackColor = System.Drawing.Color.Transparent
         Me.GroupBox2.Controls.Add(Me.rbdificil)
         Me.GroupBox2.Controls.Add(Me.rbfacil)
         Me.GroupBox2.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GroupBox2.Location = New System.Drawing.Point(503, 96)
+        Me.GroupBox2.Location = New System.Drawing.Point(234, 113)
         Me.GroupBox2.Name = "GroupBox2"
         Me.GroupBox2.Size = New System.Drawing.Size(138, 73)
         Me.GroupBox2.TabIndex = 9
@@ -142,13 +141,13 @@ Partial Class frmmenu
         '
         'btjogar
         '
-        Me.btjogar.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.btjogar.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btjogar.Location = New System.Drawing.Point(450, 259)
+        Me.btjogar.BackColor = System.Drawing.SystemColors.ButtonFace
+        Me.btjogar.Font = New System.Drawing.Font("Arial", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btjogar.Location = New System.Drawing.Point(405, 253)
         Me.btjogar.Name = "btjogar"
-        Me.btjogar.Size = New System.Drawing.Size(145, 59)
+        Me.btjogar.Size = New System.Drawing.Size(75, 30)
         Me.btjogar.TabIndex = 10
-        Me.btjogar.Text = "Jogar"
+        Me.btjogar.Text = "&Start"
         Me.btjogar.UseVisualStyleBackColor = False
         '
         'lblnome
@@ -156,58 +155,38 @@ Partial Class frmmenu
         Me.lblnome.BackColor = System.Drawing.Color.Transparent
         Me.lblnome.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblnome.ForeColor = System.Drawing.Color.Black
-        Me.lblnome.Location = New System.Drawing.Point(12, 9)
+        Me.lblnome.Location = New System.Drawing.Point(409, 9)
         Me.lblnome.Name = "lblnome"
-        Me.lblnome.Size = New System.Drawing.Size(221, 63)
+        Me.lblnome.Size = New System.Drawing.Size(100, 32)
         Me.lblnome.TabIndex = 11
         Me.lblnome.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
-        '
-        'PictureBox2
-        '
-        Me.PictureBox2.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.PictureBox2.Location = New System.Drawing.Point(552, 275)
-        Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(31, 31)
-        Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
-        Me.PictureBox2.TabIndex = 12
-        Me.PictureBox2.TabStop = False
-        '
-        'PictureBox1
-        '
-        Me.PictureBox1.Location = New System.Drawing.Point(1, 96)
-        Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(294, 250)
-        Me.PictureBox1.TabIndex = 3
-        Me.PictureBox1.TabStop = False
         '
         'frmmenu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.BackColor = System.Drawing.Color.Turquoise
-        Me.ClientSize = New System.Drawing.Size(681, 379)
-        Me.Controls.Add(Me.PictureBox2)
+        Me.BackColor = System.Drawing.Color.White
+        Me.BackgroundImage = Global.jogo_2.My.Resources.Resources.FUNDOCOA
+        Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
+        Me.ClientSize = New System.Drawing.Size(514, 311)
         Me.Controls.Add(Me.lblnome)
         Me.Controls.Add(Me.btjogar)
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.GroupBox1)
-        Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Label1)
+        Me.DoubleBuffered = True
         Me.Name = "frmmenu"
         Me.Text = "Menu"
         Me.GroupBox1.ResumeLayout(False)
         Me.GroupBox1.PerformLayout()
         Me.GroupBox2.ResumeLayout(False)
         Me.GroupBox2.PerformLayout()
-        CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()
-        CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
 
     Friend WithEvents Label1 As Label
-    Friend WithEvents PictureBox1 As PictureBox
     Friend WithEvents rdpaises As RadioButton
     Friend WithEvents GroupBox1 As GroupBox
     Friend WithEvents rbfrutas As RadioButton
@@ -218,5 +197,4 @@ Partial Class frmmenu
     Friend WithEvents rbfacil As RadioButton
     Friend WithEvents btjogar As Button
     Friend WithEvents lblnome As Label
-    Friend WithEvents PictureBox2 As PictureBox
 End Class

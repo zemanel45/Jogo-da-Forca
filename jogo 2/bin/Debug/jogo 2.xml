@@ -72,5 +72,10 @@ jogo 2
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:jogo_2.My.Resources.Resources.FUNDOCOA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>

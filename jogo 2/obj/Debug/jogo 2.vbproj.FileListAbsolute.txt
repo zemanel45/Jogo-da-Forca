@@ -82,3 +82,29 @@ D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmjp
 D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmregister.resources
 D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.Resources.resources
 D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe.config
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.exe
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.xml
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.pdb
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjpaises.resources
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.Resources.resources
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.pdb
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.xml
+D:\Downloads\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe.config
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.exe
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.xml
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.pdb
+D:\Downloads\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe
+D:\Downloads\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.pdb
+D:\Downloads\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.xml
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjogos.resources
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache

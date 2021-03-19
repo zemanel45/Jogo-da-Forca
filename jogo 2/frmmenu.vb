@@ -17,21 +17,20 @@
         End If
 
         If rdpaises.Checked = True Then
-            Me.Hide()
-            frmjpaises.Show()
+            My.Settings.tema = 1
         End If
         If rbfrutas.Checked = True Then
-            Me.Hide()
-            frmjfruta.Show()
+            My.Settings.tema = 2
         End If
         If rbprof.Checked = True Then
-            Me.Hide()
-            frmjprof.Show()
+            My.Settings.tema = 3
         End If
         If rbanimais.Checked = True Then
-            Me.Hide()
-            frmjanimais.Show()
+            My.Settings.tema = 4
         End If
+
+        Me.Hide()
+        frmjogos.Show()
 
     End Sub
 
@@ -50,9 +49,6 @@
     Private Sub frmmenu_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         lblnome.Text = My.Settings.Username
         lblnome.Font = New Font("Microsoft Sans Serif", 16, FontStyle.Bold)
-        PictureBox1.Image = My.Resources.Forca_0
-        PictureBox2.Image = My.Resources.Forca_0
-
         desabilita()
 
 
@@ -86,4 +82,7 @@
         End If
     End Sub
 
+    Private Sub Label1_Click(sender As Object, e As EventArgs)
+
+    End Sub
 End Class
