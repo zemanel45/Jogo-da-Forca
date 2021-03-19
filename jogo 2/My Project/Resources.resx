@@ -139,7 +139,13 @@
   <data name="forca_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\forca_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Fnaf_1_Full_Jumpscare_Sound" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="FNAF" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Fnaf_1_Full_Jumpscare_Sound.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="acertou" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Acertou_Miseravel_1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="bruh" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\[ONTIVA.COM]-Bruh Sound Effect #2-HQ.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

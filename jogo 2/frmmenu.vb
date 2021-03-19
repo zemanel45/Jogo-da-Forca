@@ -81,7 +81,7 @@
     End Sub
 
     Sub check()
-        If (rbanimais.Checked = True Or rbprof.Checked = True Or rbfrutas.Checked = True) And (rbfacil.Checked = True Or rbdificil.Checked = True) Then
+        If (rbanimais.Checked = True Or rbprof.Checked = True Or rbfrutas.Checked = True Or rdpaises.Checked = True) And (rbfacil.Checked = True Or rbdificil.Checked = True) Then
             btjogar.Visible = True
         End If
     End Sub

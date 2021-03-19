@@ -327,7 +327,7 @@ Partial Class frmjpaises
         '
         'Button27
         '
-        Me.Button27.Location = New System.Drawing.Point(616, 415)
+        Me.Button27.Location = New System.Drawing.Point(604, 415)
         Me.Button27.Name = "Button27"
         Me.Button27.Size = New System.Drawing.Size(75, 23)
         Me.Button27.TabIndex = 31
@@ -575,7 +575,7 @@ Partial Class frmjpaises
         '
         Me.PictureBox1.BackColor = System.Drawing.Color.Honeydew
         Me.PictureBox1.InitialImage = CType(resources.GetObject("PictureBox1.InitialImage"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(575, 220)
+        Me.PictureBox1.Location = New System.Drawing.Point(566, 197)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(225, 172)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -618,7 +618,7 @@ Partial Class frmjpaises
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(716, 415)
+        Me.Button1.Location = New System.Drawing.Point(700, 415)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 44

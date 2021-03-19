@@ -52,6 +52,92 @@
         Next
     End Sub
 
+    Sub SearchWord()
+        Dim searching As Integer = 1
+        For searching = 1 To Len(Palavra)
+            If Mid(Palavra, searching, Len(letra)) = letra Then
+                MinhaLabel(searching - 1).Text = letra
+                LetrasCorretas += 1
+            End If
+        Next
+        If Not Palavra.Contains(letra) Then
+            My.Computer.Audio.Play(My.Resources.bruh, AudioPlayMode.Background)
+            LetrasIncorretas += 1
+            lblNumeroErros.Text = 6 - LetrasIncorretas
+        End If
+
+        getimage()
+
+        If LetrasIncorretas = 6 Then Perdejogo()
+
+        If LetrasCorretas = Len(Palavra) Then
+            Fimdejogo()
+        End If
+
+
+
+
+    End Sub
+
+    Sub getimage()
+
+        If LetrasIncorretas = 0 Then
+            PictureBox1.Image = My.Resources.Forca_0
+        ElseIf LetrasIncorretas = 1 Then
+            PictureBox1.Image = My.Resources.Forca_1
+        ElseIf LetrasIncorretas = 2 Then
+            PictureBox1.Image = My.Resources.forca_2
+        ElseIf LetrasIncorretas = 3 Then
+            PictureBox1.Image = My.Resources.Forca_3
+        ElseIf LetrasIncorretas = 4 Then
+            PictureBox1.Image = My.Resources.Forca_4
+        ElseIf LetrasIncorretas = 5 Then
+            PictureBox1.Image = My.Resources.Forca_5
+        ElseIf LetrasIncorretas = 6 Then
+            PictureBox1.Image = My.Resources.forca_6
+        End If
+
+
+    End Sub
+
+    Sub Desabilitabotoes()
+        Dim ctrl As Control
+        For Each ctrl In groupbotoes.Controls
+            If TypeOf ctrl Is Button Then
+                ctrl.Visible = False
+            End If
+        Next
+    End Sub
+
+    Sub Fimdejogo()
+        My.Computer.Audio.Play(My.Resources.acertou, AudioPlayMode.Background)
+        MsgBox("GANHASTEEEEEEEEE")
+        For i As Integer = 0 To Tamanhodapalavra - 1
+            MinhaLabel(i).Text = ""
+        Next
+        PictureBox1.Image = My.Resources.Forca_0
+        lblNumeroErros.Text = ""
+        LetrasIncorretas = 0
+        Desabilitabotoes()
+        DesabilitaLabels()
+        Me.Hide()
+        frmmenu.Show()
+
+    End Sub
+
+    Sub Perdejogo()
+        My.Computer.Audio.Play(My.Resources.FNAF, AudioPlayMode.Background)
+        MsgBox("Assassino!!!!,A palavra era: " & Palavra)
+        For i As Integer = 0 To Tamanhodapalavra - 1
+            MinhaLabel(i).Text = ""
+        Next
+        Desabilitabotoes()
+        DesabilitaLabels()
+        PictureBox1.Image = My.Resources.Forca_0
+        Me.Hide()
+        frmmenu.Show()
+    End Sub
+
     Private Sub Button27_Click(sender As Object, e As EventArgs) Handles Button27.Click
         LetrasIncorretas = 0
         LetrasCorretas = 0
@@ -77,30 +163,6 @@
             End If
         Next
         lblNumeroErros.Text = "6"
-    End Sub
-
-    Sub SearchWord()
-        Dim searching As Integer = 1
-        For searching = 1 To Len(Palavra)
-            If Mid(Palavra, searching, Len(letra)) = letra Then
-                MinhaLabel(searching - 1).Text = letra
-                LetrasCorretas += 1
-            End If
-        Next
-        If Not Palavra.Contains(letra) Then
-            LetrasIncorretas += 1
-            lblNumeroErros.Text = 6 - LetrasIncorretas
-        End If
-
-        If LetrasIncorretas = 6 Then Perdejogo()
-
-        If LetrasCorretas = Len(Palavra) Then
-            Fimdejogo()
-        End If
-
-        getimage()
-
-
     End Sub
 
     Private Sub ButtonClicks(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonA.Click, ButtonB.Click, ButtonC.Click, ButtonD.Click, ButtonE.Click,
@@ -132,7 +194,7 @@
             Case "K"
                 ButtonK.Visible = False
             Case "L"
-                ButtonA.Visible = False
+                ButtonL.Visible = False
             Case "M"
                 ButtonM.Visible = False
             Case "N"
@@ -164,50 +226,6 @@
         End Select
         letra = strText
         SearchWord()
-    End Sub
-
-    Sub getimage()
-
-        If LetrasIncorretas = 0 Then
-            PictureBox1.Image = My.Resources.Forca_0
-        ElseIf LetrasIncorretas = 1 Then
-            PictureBox1.Image = My.Resources.Forca_1
-        ElseIf LetrasIncorretas = 2 Then
-            PictureBox1.Image = My.Resources.forca_2
-        ElseIf LetrasIncorretas = 3 Then
-            PictureBox1.Image = My.Resources.Forca_3
-        ElseIf LetrasIncorretas = 4 Then
-            PictureBox1.Image = My.Resources.Forca_4
-        ElseIf LetrasIncorretas = 5 Then
-            PictureBox1.Image = My.Resources.Forca_5
-        ElseIf LetrasIncorretas = 6 Then
-            PictureBox1.Image = My.Resources.Forca_6
-        End If
-
-
-    End Sub
-
-    Sub Fimdejogo()
-        MsgBox("GANHASTEEEEEEEEE")
-
-        Me.Hide()
-        frmmenu.Show()
-    End Sub
-
-    Sub Desabilitabotoes()
-        Dim ctrl As Control
-        For Each ctrl In groupbotoes.Controls
-            If TypeOf ctrl Is Button Then
-                ctrl.Visible = False
-            End If
-        Next
-    End Sub
-
-    Sub Perdejogo()
-        My.Computer.Audio.Play(My.Resources.Fnaf_1_Full_Jumpscare_Sound, AudioPlayMode.Background)
-        MsgBox("Terrorista!!!!, A palavra era:" & Palavra)
-        Me.Hide()
-        frmmenu.Show()
     End Sub
 
     Private Sub frmjpaises_Load(sender As Object, e As EventArgs) Handles MyBase.Load

@@ -59,7 +59,6 @@ Partial Class frmmenu
         Me.rdpaises.Name = "rdpaises"
         Me.rdpaises.Size = New System.Drawing.Size(67, 20)
         Me.rdpaises.TabIndex = 4
-        Me.rdpaises.TabStop = True
         Me.rdpaises.Text = "Países"
         Me.rdpaises.UseVisualStyleBackColor = True
         '
@@ -84,7 +83,6 @@ Partial Class frmmenu
         Me.rbanimais.Name = "rbanimais"
         Me.rbanimais.Size = New System.Drawing.Size(77, 20)
         Me.rbanimais.TabIndex = 8
-        Me.rbanimais.TabStop = True
         Me.rbanimais.Text = "Animais"
         Me.rbanimais.UseVisualStyleBackColor = True
         '
@@ -95,7 +93,6 @@ Partial Class frmmenu
         Me.rbprof.Name = "rbprof"
         Me.rbprof.Size = New System.Drawing.Size(90, 20)
         Me.rbprof.TabIndex = 6
-        Me.rbprof.TabStop = True
         Me.rbprof.Text = "Profissões"
         Me.rbprof.UseVisualStyleBackColor = True
         '
@@ -106,7 +103,6 @@ Partial Class frmmenu
         Me.rbfrutas.Name = "rbfrutas"
         Me.rbfrutas.Size = New System.Drawing.Size(65, 20)
         Me.rbfrutas.TabIndex = 7
-        Me.rbfrutas.TabStop = True
         Me.rbfrutas.Text = "Frutas"
         Me.rbfrutas.UseVisualStyleBackColor = True
         '

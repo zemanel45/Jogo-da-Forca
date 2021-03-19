@@ -258,6 +258,12 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\[ONTIVA.COM]-Bruh Sound Effect #2-HQ.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Acertou_Miseravel_1.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -64,3 +64,21 @@ D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmjpaises.resources
 D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmregister.resources
 D:\documentos\ok\jogo 2\obj\Debug\jogo_2.Resources.resources
 D:\documentos\ok\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\bin\Debug\jogo 2.exe.config
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.exe
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.xml
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.pdb
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\bin\Debug\jogo 2.exe
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\bin\Debug\jogo 2.pdb
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\bin\Debug\jogo 2.xml
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmjfruta.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmjprof.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmjanimais.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frminicio.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmjpaises.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmregister.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache

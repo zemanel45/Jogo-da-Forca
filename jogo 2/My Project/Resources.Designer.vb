@@ -63,9 +63,27 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
         '''</summary>
-        Friend ReadOnly Property Fnaf_1_Full_Jumpscare_Sound() As System.IO.UnmanagedMemoryStream
+        Friend ReadOnly Property acertou() As System.IO.UnmanagedMemoryStream
             Get
-                Return ResourceManager.GetStream("Fnaf_1_Full_Jumpscare_Sound", resourceCulture)
+                Return ResourceManager.GetStream("acertou", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        '''</summary>
+        Friend ReadOnly Property bruh() As System.IO.UnmanagedMemoryStream
+            Get
+                Return ResourceManager.GetStream("bruh", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        '''</summary>
+        Friend ReadOnly Property FNAF() As System.IO.UnmanagedMemoryStream
+            Get
+                Return ResourceManager.GetStream("FNAF", resourceCulture)
             End Get
         End Property
         
