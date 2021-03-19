@@ -79,7 +79,7 @@ Partial Class frmregister
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.jogo_2.My.Resources.Resources.forca
+
         Me.PictureBox1.Location = New System.Drawing.Point(-4, 53)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(294, 250)

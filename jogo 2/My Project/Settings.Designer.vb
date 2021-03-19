@@ -92,13 +92,13 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("")>  _
-        Public Property a() As String
+         Global.System.Configuration.DefaultSettingValueAttribute("1")>  _
+        Public Property dificuldade() As Integer
             Get
-                Return CType(Me("a"),String)
+                Return CType(Me("dificuldade"),Integer)
             End Get
             Set
-                Me("a") = value
+                Me("dificuldade") = value
             End Set
         End Property
     End Class

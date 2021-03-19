@@ -22,32 +22,42 @@ jogo 2
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
-<member name="P:jogo_2.My.Resources.Resources._180px_Hangman_6">
+<member name="P:jogo_2.My.Resources.Resources.Fnaf_1_Full_Jumpscare_Sound">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:jogo_2.My.Resources.Resources.Forca_0">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:jogo_2.My.Resources.Resources.forca">
+<member name="P:jogo_2.My.Resources.Resources.Forca_1">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:jogo_2.My.Resources.Resources.pic1">
+<member name="P:jogo_2.My.Resources.Resources.forca_2">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:jogo_2.My.Resources.Resources.pic2">
+<member name="P:jogo_2.My.Resources.Resources.Forca_3">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:jogo_2.My.Resources.Resources.pic3">
+<member name="P:jogo_2.My.Resources.Resources.Forca_4">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:jogo_2.My.Resources.Resources.pic4">
+<member name="P:jogo_2.My.Resources.Resources.Forca_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:jogo_2.My.Resources.Resources.forca_6">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

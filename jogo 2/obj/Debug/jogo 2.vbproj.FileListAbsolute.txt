@@ -27,3 +27,40 @@ D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmlogin.resources
 D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmjogo.resources
 D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmregister.resources
 D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmtop.resources
+D:\documentos\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe.config
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.exe
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.xml
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.pdb
+D:\documentos\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe
+D:\documentos\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.pdb
+D:\documentos\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.xml
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frminicio.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmregister.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmtop.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjfruta.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjprof.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjanimais.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjpaises.resources
+D:\documentos\ok\jogo 2\bin\Debug\jogo 2.exe.config
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.exe
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.xml
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.pdb
+D:\documentos\ok\jogo 2\bin\Debug\jogo 2.exe
+D:\documentos\ok\jogo 2\bin\Debug\jogo 2.pdb
+D:\documentos\ok\jogo 2\bin\Debug\jogo 2.xml
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmjfruta.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmjprof.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmjanimais.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frminicio.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmjpaises.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmregister.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache

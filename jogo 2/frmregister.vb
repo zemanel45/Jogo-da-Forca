@@ -1,5 +1,10 @@
 ﻿Public Class frmregister
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+
+        My.Computer.FileSystem.WriteAllText("D:\Downloads\not png" & ".txt", Environment.NewLine & txtusername.Text & "," & txtpassword.Text, True)
+
+        PictureBox1.Image = My.Resources.Forca_0
         If Not txtusername.Text = "" Then
             If Not txtpassword.Text = "" Then
                 My.Settings.Username = txtusername.Text
@@ -9,6 +14,9 @@
                 frmlogin.Show()
             End If
         End If
+
+
+
     End Sub
 
     Private Sub Form5_Load(sender As Object, e As EventArgs) Handles MyBase.Load

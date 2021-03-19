@@ -82,7 +82,7 @@ Partial Class frmlogin
         'PictureBox2
         '
         Me.PictureBox2.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.PictureBox2.Image = Global.jogo_2.My.Resources.Resources._180px_Hangman_6
+
         Me.PictureBox2.Location = New System.Drawing.Point(674, 266)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(31, 31)
@@ -92,7 +92,7 @@ Partial Class frmlogin
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.jogo_2.My.Resources.Resources.forca
+
         Me.PictureBox1.Location = New System.Drawing.Point(-1, 59)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(294, 250)

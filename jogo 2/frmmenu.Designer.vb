@@ -23,14 +23,14 @@ Partial Class frmmenu
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.RadioButton1 = New System.Windows.Forms.RadioButton()
+        Me.rdpaises = New System.Windows.Forms.RadioButton()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
-        Me.RadioButton4 = New System.Windows.Forms.RadioButton()
-        Me.RadioButton2 = New System.Windows.Forms.RadioButton()
-        Me.RadioButton3 = New System.Windows.Forms.RadioButton()
+        Me.rbanimais = New System.Windows.Forms.RadioButton()
+        Me.rbprof = New System.Windows.Forms.RadioButton()
+        Me.rbfrutas = New System.Windows.Forms.RadioButton()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
-        Me.RadioButton7 = New System.Windows.Forms.RadioButton()
-        Me.RadioButton8 = New System.Windows.Forms.RadioButton()
+        Me.rbdificil = New System.Windows.Forms.RadioButton()
+        Me.rbfacil = New System.Windows.Forms.RadioButton()
         Me.btjogar = New System.Windows.Forms.Button()
         Me.lblnome = New System.Windows.Forms.Label()
         Me.PictureBox2 = New System.Windows.Forms.PictureBox()
@@ -52,23 +52,23 @@ Partial Class frmmenu
         Me.Label1.Text = "Jogo da Forca"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
-        'RadioButton1
+        'rdpaises
         '
-        Me.RadioButton1.AutoSize = True
-        Me.RadioButton1.Location = New System.Drawing.Point(18, 19)
-        Me.RadioButton1.Name = "RadioButton1"
-        Me.RadioButton1.Size = New System.Drawing.Size(67, 20)
-        Me.RadioButton1.TabIndex = 4
-        Me.RadioButton1.TabStop = True
-        Me.RadioButton1.Text = "Países"
-        Me.RadioButton1.UseVisualStyleBackColor = True
+        Me.rdpaises.AutoSize = True
+        Me.rdpaises.Location = New System.Drawing.Point(18, 19)
+        Me.rdpaises.Name = "rdpaises"
+        Me.rdpaises.Size = New System.Drawing.Size(67, 20)
+        Me.rdpaises.TabIndex = 4
+        Me.rdpaises.TabStop = True
+        Me.rdpaises.Text = "Países"
+        Me.rdpaises.UseVisualStyleBackColor = True
         '
         'GroupBox1
         '
-        Me.GroupBox1.Controls.Add(Me.RadioButton4)
-        Me.GroupBox1.Controls.Add(Me.RadioButton2)
-        Me.GroupBox1.Controls.Add(Me.RadioButton3)
-        Me.GroupBox1.Controls.Add(Me.RadioButton1)
+        Me.GroupBox1.Controls.Add(Me.rbanimais)
+        Me.GroupBox1.Controls.Add(Me.rbprof)
+        Me.GroupBox1.Controls.Add(Me.rbfrutas)
+        Me.GroupBox1.Controls.Add(Me.rdpaises)
         Me.GroupBox1.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GroupBox1.Location = New System.Drawing.Point(346, 96)
         Me.GroupBox1.Name = "GroupBox1"
@@ -77,43 +77,43 @@ Partial Class frmmenu
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Temas"
         '
-        'RadioButton4
+        'rbanimais
         '
-        Me.RadioButton4.AutoSize = True
-        Me.RadioButton4.Location = New System.Drawing.Point(18, 88)
-        Me.RadioButton4.Name = "RadioButton4"
-        Me.RadioButton4.Size = New System.Drawing.Size(77, 20)
-        Me.RadioButton4.TabIndex = 8
-        Me.RadioButton4.TabStop = True
-        Me.RadioButton4.Text = "Animais"
-        Me.RadioButton4.UseVisualStyleBackColor = True
+        Me.rbanimais.AutoSize = True
+        Me.rbanimais.Location = New System.Drawing.Point(18, 88)
+        Me.rbanimais.Name = "rbanimais"
+        Me.rbanimais.Size = New System.Drawing.Size(77, 20)
+        Me.rbanimais.TabIndex = 8
+        Me.rbanimais.TabStop = True
+        Me.rbanimais.Text = "Animais"
+        Me.rbanimais.UseVisualStyleBackColor = True
         '
-        'RadioButton2
+        'rbprof
         '
-        Me.RadioButton2.AutoSize = True
-        Me.RadioButton2.Location = New System.Drawing.Point(18, 65)
-        Me.RadioButton2.Name = "RadioButton2"
-        Me.RadioButton2.Size = New System.Drawing.Size(90, 20)
-        Me.RadioButton2.TabIndex = 6
-        Me.RadioButton2.TabStop = True
-        Me.RadioButton2.Text = "Profissões"
-        Me.RadioButton2.UseVisualStyleBackColor = True
+        Me.rbprof.AutoSize = True
+        Me.rbprof.Location = New System.Drawing.Point(18, 65)
+        Me.rbprof.Name = "rbprof"
+        Me.rbprof.Size = New System.Drawing.Size(90, 20)
+        Me.rbprof.TabIndex = 6
+        Me.rbprof.TabStop = True
+        Me.rbprof.Text = "Profissões"
+        Me.rbprof.UseVisualStyleBackColor = True
         '
-        'RadioButton3
+        'rbfrutas
         '
-        Me.RadioButton3.AutoSize = True
-        Me.RadioButton3.Location = New System.Drawing.Point(18, 42)
-        Me.RadioButton3.Name = "RadioButton3"
-        Me.RadioButton3.Size = New System.Drawing.Size(65, 20)
-        Me.RadioButton3.TabIndex = 7
-        Me.RadioButton3.TabStop = True
-        Me.RadioButton3.Text = "Frutas"
-        Me.RadioButton3.UseVisualStyleBackColor = True
+        Me.rbfrutas.AutoSize = True
+        Me.rbfrutas.Location = New System.Drawing.Point(18, 42)
+        Me.rbfrutas.Name = "rbfrutas"
+        Me.rbfrutas.Size = New System.Drawing.Size(65, 20)
+        Me.rbfrutas.TabIndex = 7
+        Me.rbfrutas.TabStop = True
+        Me.rbfrutas.Text = "Frutas"
+        Me.rbfrutas.UseVisualStyleBackColor = True
         '
         'GroupBox2
         '
-        Me.GroupBox2.Controls.Add(Me.RadioButton7)
-        Me.GroupBox2.Controls.Add(Me.RadioButton8)
+        Me.GroupBox2.Controls.Add(Me.rbdificil)
+        Me.GroupBox2.Controls.Add(Me.rbfacil)
         Me.GroupBox2.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GroupBox2.Location = New System.Drawing.Point(503, 96)
         Me.GroupBox2.Name = "GroupBox2"
@@ -122,27 +122,27 @@ Partial Class frmmenu
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Dificuldade"
         '
-        'RadioButton7
+        'rbdificil
         '
-        Me.RadioButton7.AutoSize = True
-        Me.RadioButton7.Location = New System.Drawing.Point(18, 42)
-        Me.RadioButton7.Name = "RadioButton7"
-        Me.RadioButton7.Size = New System.Drawing.Size(62, 20)
-        Me.RadioButton7.TabIndex = 7
-        Me.RadioButton7.TabStop = True
-        Me.RadioButton7.Text = "Dificil"
-        Me.RadioButton7.UseVisualStyleBackColor = True
+        Me.rbdificil.AutoSize = True
+        Me.rbdificil.Location = New System.Drawing.Point(18, 42)
+        Me.rbdificil.Name = "rbdificil"
+        Me.rbdificil.Size = New System.Drawing.Size(62, 20)
+        Me.rbdificil.TabIndex = 7
+        Me.rbdificil.TabStop = True
+        Me.rbdificil.Text = "Dificil"
+        Me.rbdificil.UseVisualStyleBackColor = True
         '
-        'RadioButton8
+        'rbfacil
         '
-        Me.RadioButton8.AutoSize = True
-        Me.RadioButton8.Location = New System.Drawing.Point(18, 19)
-        Me.RadioButton8.Name = "RadioButton8"
-        Me.RadioButton8.Size = New System.Drawing.Size(57, 20)
-        Me.RadioButton8.TabIndex = 4
-        Me.RadioButton8.TabStop = True
-        Me.RadioButton8.Text = "Fácil"
-        Me.RadioButton8.UseVisualStyleBackColor = True
+        Me.rbfacil.AutoSize = True
+        Me.rbfacil.Location = New System.Drawing.Point(18, 19)
+        Me.rbfacil.Name = "rbfacil"
+        Me.rbfacil.Size = New System.Drawing.Size(57, 20)
+        Me.rbfacil.TabIndex = 4
+        Me.rbfacil.TabStop = True
+        Me.rbfacil.Text = "Fácil"
+        Me.rbfacil.UseVisualStyleBackColor = True
         '
         'btjogar
         '
@@ -169,7 +169,6 @@ Partial Class frmmenu
         'PictureBox2
         '
         Me.PictureBox2.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.PictureBox2.Image = Global.jogo_2.My.Resources.Resources._180px_Hangman_6
         Me.PictureBox2.Location = New System.Drawing.Point(552, 275)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(31, 31)
@@ -179,7 +178,6 @@ Partial Class frmmenu
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.jogo_2.My.Resources.Resources.forca
         Me.PictureBox1.Location = New System.Drawing.Point(1, 96)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(294, 250)
@@ -214,14 +212,14 @@ Partial Class frmmenu
 
     Friend WithEvents Label1 As Label
     Friend WithEvents PictureBox1 As PictureBox
-    Friend WithEvents RadioButton1 As RadioButton
+    Friend WithEvents rdpaises As RadioButton
     Friend WithEvents GroupBox1 As GroupBox
-    Friend WithEvents RadioButton3 As RadioButton
-    Friend WithEvents RadioButton2 As RadioButton
-    Friend WithEvents RadioButton4 As RadioButton
+    Friend WithEvents rbfrutas As RadioButton
+    Friend WithEvents rbprof As RadioButton
+    Friend WithEvents rbanimais As RadioButton
     Friend WithEvents GroupBox2 As GroupBox
-    Friend WithEvents RadioButton7 As RadioButton
-    Friend WithEvents RadioButton8 As RadioButton
+    Friend WithEvents rbdificil As RadioButton
+    Friend WithEvents rbfacil As RadioButton
     Friend WithEvents btjogar As Button
     Friend WithEvents lblnome As Label
     Friend WithEvents PictureBox2 As PictureBox

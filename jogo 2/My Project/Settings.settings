@@ -11,8 +11,8 @@
     <Setting Name="Ranking" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="a" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+    <Setting Name="dificuldade" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
     </Setting>
   </Settings>
 </SettingsFile>

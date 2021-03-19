@@ -85,7 +85,7 @@ Partial Class frminicio
         'PictureBox5
         '
         Me.PictureBox5.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.PictureBox5.Image = Global.jogo_2.My.Resources.Resources._180px_Hangman_6
+
         Me.PictureBox5.Location = New System.Drawing.Point(513, 119)
         Me.PictureBox5.Name = "PictureBox5"
         Me.PictureBox5.Size = New System.Drawing.Size(31, 31)
@@ -96,7 +96,7 @@ Partial Class frminicio
         'PictureBox2
         '
         Me.PictureBox2.BackColor = System.Drawing.SystemColors.ControlLightLight
-        Me.PictureBox2.Image = Global.jogo_2.My.Resources.Resources._180px_Hangman_6
+
         Me.PictureBox2.Location = New System.Drawing.Point(513, 201)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(31, 31)
@@ -106,7 +106,7 @@ Partial Class frminicio
         '
         'PictureBox1
         '
-        Me.PictureBox1.Image = Global.jogo_2.My.Resources.Resources.forca
+
         Me.PictureBox1.Location = New System.Drawing.Point(2, 93)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(294, 250)
