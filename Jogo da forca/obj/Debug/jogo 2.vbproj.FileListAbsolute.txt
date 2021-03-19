@@ -1,0 +1,138 @@
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\bin\Debug\jogo 2.exe.config
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\bin\Debug\jogo 2.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\bin\Debug\jogo 2.pdb
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\bin\Debug\jogo 2.xml
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo_2.Form1.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo_2.Resources.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.exe
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.xml
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo 2.pdb
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo_2.Form2.resources
+c:\users\utilizador\documents\visual studio 2015\Projects\jogo 2\jogo 2\obj\Debug\jogo_2.Form3.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\bin\Debug\jogo 2.exe.config
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.exe
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.xml
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.pdb
+D:\Downloads\jogo_2\jogo 2\jogo 2\bin\Debug\jogo 2.exe
+D:\Downloads\jogo_2\jogo 2\jogo 2\bin\Debug\jogo 2.pdb
+D:\Downloads\jogo_2\jogo 2\jogo 2\bin\Debug\jogo 2.xml
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frminicio.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmjogo.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmregister.resources
+D:\Downloads\jogo_2\jogo 2\jogo 2\obj\Debug\jogo_2.frmtop.resources
+D:\documentos\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe.config
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.exe
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.xml
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.pdb
+D:\documentos\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe
+D:\documentos\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.pdb
+D:\documentos\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.xml
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frminicio.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmregister.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmtop.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjfruta.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjprof.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjanimais.resources
+D:\documentos\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjpaises.resources
+D:\documentos\ok\jogo 2\bin\Debug\jogo 2.exe.config
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.exe
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.xml
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.pdb
+D:\documentos\ok\jogo 2\bin\Debug\jogo 2.exe
+D:\documentos\ok\jogo 2\bin\Debug\jogo 2.pdb
+D:\documentos\ok\jogo 2\bin\Debug\jogo 2.xml
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmjfruta.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmjprof.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmjanimais.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frminicio.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmjpaises.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.frmregister.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\documentos\ok\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\bin\Debug\jogo 2.exe.config
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.exe
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.xml
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.pdb
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\bin\Debug\jogo 2.exe
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\bin\Debug\jogo 2.pdb
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\bin\Debug\jogo 2.xml
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmjfruta.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmjprof.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmjanimais.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frminicio.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmjpaises.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.frmregister.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\documentos\Visual Studio 2015\Projects\Trabalho\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe.config
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.exe
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.xml
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.pdb
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjpaises.resources
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.Resources.resources
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.pdb
+C:\Users\Snow\Desktop\AIA\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.xml
+D:\Downloads\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe.config
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.exe
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.xml
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.pdb
+D:\Downloads\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe
+D:\Downloads\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.pdb
+D:\Downloads\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.xml
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjogos.resources
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.Resources.resources
+D:\Downloads\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe.config
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.exe
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.xml
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.pdb
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.exe
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.pdb
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\bin\Debug\jogo 2.xml
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmregras.resources
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmlogin.resources
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmmenu.resources
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.frmjogos.resources
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo_2.Resources.resources
+C:\Users\Snow\Desktop\ULTIMO\jogo-da-forca--main\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\bin\Debug\Jogo da forca.exe.config
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\bin\Debug\Jogo da forca.exe
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\bin\Debug\Jogo da forca.pdb
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\bin\Debug\Jogo da forca.xml
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\jogo 2.vbprojResolveAssemblyReference.cache
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\jogo 2.vbproj.GenerateResource.Cache
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\Jogo da forca.exe
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\Jogo da forca.xml
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\Jogo da forca.pdb
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\Jogo_da_forca.frmregras.resources
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\Jogo_da_forca.frmlogin.resources
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\Jogo_da_forca.frmmenu.resources
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\Jogo_da_forca.frmjogos.resources
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\jogo 2\obj\Debug\Jogo_da_forca.Resources.resources

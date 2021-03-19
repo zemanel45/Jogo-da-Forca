@@ -1,0 +1,4 @@
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\Jogo da forca\bin\Debug\Jogo da forca.exe.config
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\Jogo da forca\obj\Debug\Jogo da forca.exe
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\Jogo da forca\obj\Debug\Jogo da forca.xml
+D:\Downloads\Jogo_da_forca_final\Jogo da forca final\Jogo da forca\obj\Debug\Jogo da forca.pdb
